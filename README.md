@@ -1,4 +1,4 @@
-### [PLAY THE GAME](https://nilasrd.github.io/tutorial/tutorial/index.html)
+### [PLAY THE GAME](Tutorial/index.html)
 
 ## About
 Game based on the Discover Phaser book
